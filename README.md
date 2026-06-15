@@ -74,11 +74,6 @@ Evening courses show higher C1 conversion rates, indicating scaling potential
 
 
 
-🧮 Unit Economics
-
-ProductTypeUABuyersC1CPACACGross RevenueCLTVDigital MarketingMorning1,52435022.97%984273,393,5009,696UX/UI DesignMorning80116921.10%1878851,594,9009,437Web DeveloperMorning54113625.14%2761,099578,1004,251Digital MarketingEvening24811245.16%6031,335404,8003,614UX/UI DesignEvening1525838.16%9842,578217,5003,750
-
-
 🧪 Hypothesis Testing
 
 Hypothesis 1 — Increase AOV
